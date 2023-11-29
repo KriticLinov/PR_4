@@ -1,0 +1,7 @@
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\bin\Debug\PR_4_task_1.exe.config
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\bin\Debug\PR_4_task_1.exe
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\bin\Debug\PR_4_task_1.pdb
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\obj\Debug\PR_4_task_1.csproj.AssemblyReference.cache
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\obj\Debug\PR_4_task_1.csproj.CoreCompileInputs.cache
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\obj\Debug\PR_4_task_1.exe
+C:\Users\krt32\Desktop\PR_4_task_1\PR_4_task_1\obj\Debug\PR_4_task_1.pdb
